@@ -5,3 +5,8 @@ daftar menu harian
   3. sayur asem
   4. lotek
   5. ikan asin, tahu, tempe, sambel terasi
+- selasa
+  1. chiken
+  2. terong
+  3. tahu goreng
+  4. tempe balado
